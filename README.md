@@ -47,7 +47,7 @@ set http_proxy=http://3.66.38.117:10882
 
 <br>
 <p align="center">
-<img width="99.0%" src=""/> 
+<img width="99.0%" src="https://raw.githubusercontent.com/mishakorzik/proxy-terminal/main/IMG_20220903_224927.jpg"/> 
 </p>
 
 --------
