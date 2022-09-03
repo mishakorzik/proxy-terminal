@@ -42,7 +42,7 @@ set http_proxy=http://3.66.38.117:10882
 ## Donate
 
 **If you want to donate, click on the button**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-Proxy-terminal-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-ProxyTerminal-yellow?style=for-the-badge&logo=github"></a>
 -------
 
 <br>
