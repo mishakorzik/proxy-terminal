@@ -25,12 +25,16 @@
 ## Usage
 
 ### For Linux Distribution
-* `export https_proxy=http://3.66.38.117:10882`
-* `export http_proxy=http://3.66.38.117:10882`
+```
+export https_proxy=http://3.66.38.117:10882
+export http_proxy=http://3.66.38.117:10882
+```
 
 ### For Windows
-* `set https_proxy=http://3.66.38.117:10882`
-* `set http_proxy=http://3.66.38.117:10882`
+```
+set https_proxy=http://3.66.38.117:10882
+set http_proxy=http://3.66.38.117:10882
+```
 
 ------
 ## Donate
