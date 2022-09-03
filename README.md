@@ -36,6 +36,8 @@ set https_proxy=http://3.66.38.117:10882
 set http_proxy=http://3.66.38.117:10882
 ```
 
+* `now your ip in the terminal will change`
+
 ------
 ## Donate
 
