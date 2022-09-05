@@ -24,7 +24,7 @@
 ----
 ## Usage
 
-#### Proxy can change its ip, so check this site regularly to see if the ip in the proxy has changed
+#### Proxy can change its ip, so check this site regularly to see if the ip in the proxy has changed. Free infinity proxy api: <a href="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80/https.json">click here</a>
 
 ### For Linux Distribution
 ```
