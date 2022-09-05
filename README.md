@@ -24,6 +24,8 @@
 ----
 ## Usage
 
+#### Proxy can change its ip, so check this site regularly to see if the ip in the proxy has changed
+
 ### For Linux Distribution
 ```
 export https_proxy=http://3.68.56.232:18276
