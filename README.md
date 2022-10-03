@@ -28,14 +28,14 @@
 
 ### For Linux Distribution
 ```
-export https_proxy=http://3.68.56.232:18276
-export http_proxy=http://3.68.56.232:18276
+export https_proxy=http://3.67.161.133:19212
+export http_proxy=http://3.67.161.133:19212
 ```
 
 ### For Windows
 ```
-set https_proxy=http://3.68.56.232:18276
-set http_proxy=http://3.68.56.232:18276
+set https_proxy=http://3.67.161.133:19212
+set http_proxy=http://3.67.161.133:19212
 ```
 
 * `now your ip in the terminal will change`
